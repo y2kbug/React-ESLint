@@ -22,6 +22,9 @@ DerivedData
 *.xcuserstate
 project.xcworkspace
 
+# Visual Studio Xcode
+.vscode
+
 # Android/IntelliJ
 #
 build/
